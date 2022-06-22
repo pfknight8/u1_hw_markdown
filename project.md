@@ -10,7 +10,7 @@
 
 ### **_Links_**
 
-[Link](https://www.linkedin.com/in/patrick-knight-5a080755/) | [Link](https://www.github.com/pfknight8)
+[LinkedIn](https://www.linkedin.com/in/patrick-knight-5a080755/) | [Github](https://www.github.com/pfknight8)
 
 ---
 
@@ -46,7 +46,7 @@
 - [ ] This
 - [ ] Second to This
 - [x] That
-- [x] ~~Consider~~ Also this
+- [x] ~~Consider~~ this also
 
 ---
 
